@@ -1,6 +1,6 @@
 # HAPI-FHIR Starter Project
 
-За основу был взят стандартный jpa-server-starter проекта "HAPI FHIR". Изменения минимальны: был перенастроен источник данных (проект перенастроин на работу с базой данных PostgreSQL). Сам проет использовался для изучения работы спецификации FHIR.
+Это стандартный jpa-server-starter проекта "HAPI FHIR". Изменения минимальны: был перенастроен источник данных (проект перенастроин на работу с базой данных PostgreSQL) и внесены минимальные изменения в docker-compose файл для работы с данным источником. Сам проет использовался для изучения работы спецификации FHIR.
 
 This project is a complete starter project you can use to deploy a FHIR server using HAPI FHIR JPA.
 
